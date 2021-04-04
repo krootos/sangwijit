@@ -196,6 +196,9 @@ $login_session_duration = 300; // 5 minute
                     <li>
                         <a href="editJob.php"> <i class="menu-icon fas fa-plus"></i>แก้ไขข้อมูล</a>
                     </li>
+                    <li>
+                        <a href="print-list.php"> <i class="menu-icon fas fa-plus"></i>รายงาน</a>
+                    </li>
                     
                     
                 </ul>
