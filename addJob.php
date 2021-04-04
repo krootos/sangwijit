@@ -29,6 +29,7 @@ include_once 'function.php';
 
                     <div class="card-body card-block">
                         <small>ข้อมูลลูกค้า</small>
+                        <small>ข้อมูลลูกค้าหดหดหฆโำดำดโ</small>
                         <hr>
 
 
@@ -89,7 +90,7 @@ include_once 'function.php';
                                 <label class=" form-control-label">พิกัด (ลองติจูด)</label>
                                 <input type="text" class="form-control" id="longtitude" name="longtitude">
                             </div>
-                            
+
                             <div class="clearfix"></div>
 
                             <small>ข้อมูลช่าง</small>
@@ -196,7 +197,7 @@ include_once 'function.php';
                                     <input type="file" class="form-control-file" name="InputFileImgAfter" id="InputFileImgAfter" aria-describedby="fileHelp">
                                 </div>
                             </div>
-                           
+
 
 
                             <div class="form-group col-md-4">
@@ -216,7 +217,7 @@ include_once 'function.php';
                             </div>
                         </form>
 
-                        
+
                     </div>
 
 
